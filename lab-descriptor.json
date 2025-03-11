@@ -55,7 +55,7 @@
     },
     {
         "name": "Parabolic Equation - Implicit Method (Crank-Nicholson Method)",
-        "short-name": "parabolic-equation-implicit-crank-nicholson",
+        "short-name": "parabolic-equation-implicit",
         "repo": "https://github.com/virtual-labs/exp-partial-differential-equations-parabolic-equation-implicit-method-crank-nicholson-method-iitb",
         "tag": "v1.0.0",
         "deploy": true
